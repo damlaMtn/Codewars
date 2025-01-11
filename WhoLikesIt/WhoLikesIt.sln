@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSubsets", "..\WordSubse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumoftwolowestpositiveintegers", "..\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\sumoftwolowestpositiveintegers.csproj", "{3587A285-1467-4173-92A3-00AE5D62AD8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constructkpalindromestrings", "..\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\constructkpalindromestrings.csproj", "{58EE664B-D903-4507-850F-29C1BFB4B91C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{3587A285-1467-4173-92A3-00AE5D62AD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3587A285-1467-4173-92A3-00AE5D62AD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3587A285-1467-4173-92A3-00AE5D62AD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EE664B-D903-4507-850F-29C1BFB4B91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EE664B-D903-4507-850F-29C1BFB4B91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EE664B-D903-4507-850F-29C1BFB4B91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EE664B-D903-4507-850F-29C1BFB4B91C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "constructkpalindromestrings/1.0.0": {
+        "runtime": {
+          "constructkpalindromestrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "constructkpalindromestrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

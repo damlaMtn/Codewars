@@ -1,0 +1,15 @@
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\bin\Debug\net8.0\constructkpalindromestrings.exe
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\bin\Debug\net8.0\constructkpalindromestrings.deps.json
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\bin\Debug\net8.0\constructkpalindromestrings.runtimeconfig.json
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\bin\Debug\net8.0\constructkpalindromestrings.dll
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\bin\Debug\net8.0\constructkpalindromestrings.pdb
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\obj\Debug\net8.0\constructkpalindromestrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\obj\Debug\net8.0\constructkpalindromestrings.AssemblyInfoInputs.cache
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\obj\Debug\net8.0\constructkpalindromestrings.AssemblyInfo.cs
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\obj\Debug\net8.0\constructkpalindromestrings.csproj.CoreCompileInputs.cache
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\obj\Debug\net8.0\constructkpalindromestrings.sourcelink.json
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\obj\Debug\net8.0\constructkpalindromestrings.dll
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\obj\Debug\net8.0\refint\constructkpalindromestrings.dll
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\obj\Debug\net8.0\constructkpalindromestrings.pdb
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\obj\Debug\net8.0\constructkpalindromestrings.genruntimeconfig.cache
+D:\_DAMLA\Projects\Codewars\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\obj\Debug\net8.0\ref\constructkpalindromestrings.dll

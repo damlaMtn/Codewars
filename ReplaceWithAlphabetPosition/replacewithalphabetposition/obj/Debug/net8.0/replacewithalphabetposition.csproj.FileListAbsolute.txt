@@ -1,0 +1,14 @@
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\bin\Debug\net8.0\replacewithalphabetposition.exe
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\bin\Debug\net8.0\replacewithalphabetposition.deps.json
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\bin\Debug\net8.0\replacewithalphabetposition.runtimeconfig.json
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\bin\Debug\net8.0\replacewithalphabetposition.dll
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\bin\Debug\net8.0\replacewithalphabetposition.pdb
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\obj\Debug\net8.0\replacewithalphabetposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\obj\Debug\net8.0\replacewithalphabetposition.AssemblyInfoInputs.cache
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\obj\Debug\net8.0\replacewithalphabetposition.AssemblyInfo.cs
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\obj\Debug\net8.0\replacewithalphabetposition.csproj.CoreCompileInputs.cache
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\obj\Debug\net8.0\replacewithalphabetposition.dll
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\obj\Debug\net8.0\refint\replacewithalphabetposition.dll
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\obj\Debug\net8.0\replacewithalphabetposition.pdb
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\obj\Debug\net8.0\replacewithalphabetposition.genruntimeconfig.cache
+D:\_DAMLA\Projects\Codewars\ReplaceWithAlphabetPosition\replacewithalphabetposition\obj\Debug\net8.0\ref\replacewithalphabetposition.dll

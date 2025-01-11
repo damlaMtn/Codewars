@@ -1,0 +1,14 @@
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\obj\Debug\net8.0\wholikesit.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\obj\Debug\net8.0\wholikesit.AssemblyInfoInputs.cache
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\obj\Debug\net8.0\wholikesit.AssemblyInfo.cs
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\obj\Debug\net8.0\wholikesit.csproj.CoreCompileInputs.cache
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\bin\Debug\net8.0\wholikesit.exe
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\bin\Debug\net8.0\wholikesit.deps.json
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\bin\Debug\net8.0\wholikesit.runtimeconfig.json
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\bin\Debug\net8.0\wholikesit.dll
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\bin\Debug\net8.0\wholikesit.pdb
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\obj\Debug\net8.0\wholikesit.dll
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\obj\Debug\net8.0\refint\wholikesit.dll
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\obj\Debug\net8.0\wholikesit.pdb
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\obj\Debug\net8.0\wholikesit.genruntimeconfig.cache
+D:\_DAMLA\Projects\Codewars\WhoLikesIt\wholikesit\obj\Debug\net8.0\ref\wholikesit.dll

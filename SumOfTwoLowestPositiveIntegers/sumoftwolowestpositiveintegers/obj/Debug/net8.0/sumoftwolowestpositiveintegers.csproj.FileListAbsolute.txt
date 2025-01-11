@@ -1,0 +1,14 @@
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\bin\Debug\net8.0\sumoftwolowestpositiveintegers.exe
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\bin\Debug\net8.0\sumoftwolowestpositiveintegers.deps.json
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\bin\Debug\net8.0\sumoftwolowestpositiveintegers.runtimeconfig.json
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\bin\Debug\net8.0\sumoftwolowestpositiveintegers.dll
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\bin\Debug\net8.0\sumoftwolowestpositiveintegers.pdb
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\obj\Debug\net8.0\sumoftwolowestpositiveintegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\obj\Debug\net8.0\sumoftwolowestpositiveintegers.AssemblyInfoInputs.cache
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\obj\Debug\net8.0\sumoftwolowestpositiveintegers.AssemblyInfo.cs
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\obj\Debug\net8.0\sumoftwolowestpositiveintegers.csproj.CoreCompileInputs.cache
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\obj\Debug\net8.0\sumoftwolowestpositiveintegers.dll
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\obj\Debug\net8.0\refint\sumoftwolowestpositiveintegers.dll
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\obj\Debug\net8.0\sumoftwolowestpositiveintegers.pdb
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\obj\Debug\net8.0\sumoftwolowestpositiveintegers.genruntimeconfig.cache
+D:\_DAMLA\Projects\Codewars\SumOfTwoLowestPositiveIntegers\sumoftwolowestpositiveintegers\obj\Debug\net8.0\ref\sumoftwolowestpositiveintegers.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("constructkpalindromestrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d45fb7d845a4cc62cb022a7d12743b07d778de86")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4cd0726e49bdadc5ed35f6932bd83d23e19a667")]
 [assembly: System.Reflection.AssemblyProductAttribute("constructkpalindromestrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("constructkpalindromestrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

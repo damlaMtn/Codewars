@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumoftwolowestpositiveinteg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "constructkpalindromestrings", "..\leetcode-ConstructKPalindromeStrings\constructkpalindromestrings\constructkpalindromestrings.csproj", "{58EE664B-D903-4507-850F-29C1BFB4B91C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfAParanthesesStringCanBeValid", "..\leetcode-CheckIfAParanthesesStringCanBeValid\CheckIfAParanthesesStringCanBeValid\CheckIfAParanthesesStringCanBeValid.csproj", "{64B1371F-E45C-4297-9914-C7EE0CC01D40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{58EE664B-D903-4507-850F-29C1BFB4B91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58EE664B-D903-4507-850F-29C1BFB4B91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58EE664B-D903-4507-850F-29C1BFB4B91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B1371F-E45C-4297-9914-C7EE0CC01D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B1371F-E45C-4297-9914-C7EE0CC01D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B1371F-E45C-4297-9914-C7EE0CC01D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B1371F-E45C-4297-9914-C7EE0CC01D40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

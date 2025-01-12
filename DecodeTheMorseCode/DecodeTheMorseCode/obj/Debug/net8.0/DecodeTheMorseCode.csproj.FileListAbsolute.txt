@@ -1,0 +1,15 @@
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\bin\Debug\net8.0\DecodeTheMorseCode.exe
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\bin\Debug\net8.0\DecodeTheMorseCode.deps.json
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\bin\Debug\net8.0\DecodeTheMorseCode.runtimeconfig.json
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\bin\Debug\net8.0\DecodeTheMorseCode.dll
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\bin\Debug\net8.0\DecodeTheMorseCode.pdb
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\obj\Debug\net8.0\DecodeTheMorseCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\obj\Debug\net8.0\DecodeTheMorseCode.AssemblyInfoInputs.cache
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\obj\Debug\net8.0\DecodeTheMorseCode.AssemblyInfo.cs
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\obj\Debug\net8.0\DecodeTheMorseCode.csproj.CoreCompileInputs.cache
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\obj\Debug\net8.0\DecodeTheMorseCode.sourcelink.json
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\obj\Debug\net8.0\DecodeTheMorseCode.dll
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\obj\Debug\net8.0\refint\DecodeTheMorseCode.dll
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\obj\Debug\net8.0\DecodeTheMorseCode.pdb
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\obj\Debug\net8.0\DecodeTheMorseCode.genruntimeconfig.cache
+D:\_DAMLA\Projects\Codewars\DecodeTheMorseCode\DecodeTheMorseCode\obj\Debug\net8.0\ref\DecodeTheMorseCode.dll

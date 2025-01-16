@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sumoftwolowestpositiveintegers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f95b7c31f6d517937d19fbf9bb51203e7f31327b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+548215b5a830c22d2ca93af571eca048715ec2ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("sumoftwolowestpositiveintegers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sumoftwolowestpositiveintegers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

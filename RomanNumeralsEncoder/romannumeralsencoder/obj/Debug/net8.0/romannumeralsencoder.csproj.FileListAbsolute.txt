@@ -1,0 +1,15 @@
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\bin\Debug\net8.0\romannumeralsencoder.exe
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\bin\Debug\net8.0\romannumeralsencoder.deps.json
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\bin\Debug\net8.0\romannumeralsencoder.runtimeconfig.json
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\bin\Debug\net8.0\romannumeralsencoder.dll
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\bin\Debug\net8.0\romannumeralsencoder.pdb
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\obj\Debug\net8.0\romannumeralsencoder.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\obj\Debug\net8.0\romannumeralsencoder.AssemblyInfoInputs.cache
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\obj\Debug\net8.0\romannumeralsencoder.AssemblyInfo.cs
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\obj\Debug\net8.0\romannumeralsencoder.csproj.CoreCompileInputs.cache
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\obj\Debug\net8.0\romannumeralsencoder.sourcelink.json
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\obj\Debug\net8.0\romannumeralsencoder.dll
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\obj\Debug\net8.0\refint\romannumeralsencoder.dll
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\obj\Debug\net8.0\romannumeralsencoder.pdb
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\obj\Debug\net8.0\romannumeralsencoder.genruntimeconfig.cache
+D:\_DAMLA\Projects\Codewars\RomanNumeralsEncoder\romannumeralsencoder\obj\Debug\net8.0\ref\romannumeralsencoder.dll

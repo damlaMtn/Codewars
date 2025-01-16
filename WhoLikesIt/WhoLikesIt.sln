@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeTheMorseCode", "..\De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumLengthOfStringAfterOperations", "..\LEETCODE\MinimumLengthOfStringAfterOperations\MinimumLengthOfStringAfterOperations\MinimumLengthOfStringAfterOperations.csproj", "{73206025-EEA7-4922-8703-35D22AEF4D21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "romannumeralsencoder", "..\RomanNumeralsEncoder\romannumeralsencoder\romannumeralsencoder.csproj", "{0782E357-FA4B-45CB-B57E-F11F1C74D627}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{73206025-EEA7-4922-8703-35D22AEF4D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73206025-EEA7-4922-8703-35D22AEF4D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73206025-EEA7-4922-8703-35D22AEF4D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0782E357-FA4B-45CB-B57E-F11F1C74D627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0782E357-FA4B-45CB-B57E-F11F1C74D627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0782E357-FA4B-45CB-B57E-F11F1C74D627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0782E357-FA4B-45CB-B57E-F11F1C74D627}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
